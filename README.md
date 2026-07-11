@@ -56,8 +56,34 @@ Resumo para o seu projeto: No seu README, as rodinhas podem ser citadas como a i
 É o exemplo máximo de um profissional T-shaped em ação: você usa sua especialidade (vertical) onde a barra horizontal (sua visão geral do negócio) diz que há mais valor [15, p. 46].
 "Move your desk, ship great things!" [15, p. 12, 18].
 
-##Evolução em Desenvolvimento de Jogos
+## Evolução em Desenvolvimento de Jogos
 
-<img width="2752" height="1536" alt="Evolução_em_Desenvolvimento_de_Jogos" src="https://github.com/user-attachments/assets/fcd109ff-f04a-4f11-836b-2156247bfd3a" />
+<img width="2752" height="1536" alt="Evolução_em_Desenvolvimento_de_Jogos" src="https://github.com/user-attachments/assets/375355e7-edda-4607-ab74-1b5b46b2338f" />
+
+## Ciclos_de_Engajamento_em_Jogos
+
+<img width="1536" height="2752" alt="Ciclos_de_Engajamento_em_Jogos (1)" src="https://github.com/user-attachments/assets/70384ca2-6bdb-4a7c-9109-95b4d6f13fcd" />
+
+## Anatomia_da_Inovação_nos_Games
+
+<img width="1536" height="2752" alt="Anatomia_da_Inovação_nos_Games" src="https://github.com/user-attachments/assets/60fb2e91-5a58-4667-93eb-b92172df3a87" />
+
+## Valve_Adaptive_Systems
+
+[Valve_Adaptive_Systems.pdf](https://github.com/user-attachments/files/29930035/Valve_Adaptive_Systems.pdf)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
