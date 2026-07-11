@@ -19,6 +19,7 @@ O desempenho é avaliado via Stack Ranking, fundamentado em quatro critérios de
 | **Tomada de Decisão** | Baseada em planos rígidos de longo prazo. | Iterativa, baseada em telemetria e "voto com as rodas". |
 | **Avaliação** | Cumprimento de metas e tarefas pré-definidas. | Stack Ranking focado em contribuição ao grupo. |
 | **Perfil Profissional** | Especialista isolado ou generalista sem foco. | T-Shaped / Steward (Maestria em Dados + Visão de Produto). |
+
 ## Evolução em Desenvolvimento de Jogos
 
 <img width="2752" height="1536" alt="Evolução_em_Desenvolvimento_de_Jogos" src="https://github.com/user-attachments/assets/375355e7-edda-4607-ab74-1b5b46b2338f" />
@@ -31,9 +32,7 @@ O desempenho é avaliado via Stack Ranking, fundamentado em quatro critérios de
 
 <img width="1536" height="2752" alt="Anatomia_da_Inovação_nos_Games" src="https://github.com/user-attachments/assets/60fb2e91-5a58-4667-93eb-b92172df3a87" />
 
-## Valve_Adaptive_Systems
-
-[Valve_Adaptive_Systems.pdf](https://github.com/user-attachments/files/29930035/Valve_Adaptive_Systems.pdf)
+## [Valve_Adaptive_Systems.pdf](https://github.com/user-attachments/files/29930035/Valve_Adaptive_Systems.pdf)
 
 ## [A Metamorfose da Valve](https://github.com/FELIPEKINGMASTERKING/Evolution-and-Organizational-Complexity-Engenharia-de-Sistemas-Adaptativos-e-Cultura-de-Dados/releases/download/v1.0.0/A-Metamorfose-da-Valve.mp4)
 
