@@ -72,10 +72,11 @@ Resumo para o seu projeto: No seu README, as rodinhas podem ser citadas como a i
 
 [Valve_Adaptive_Systems.pdf](https://github.com/user-attachments/files/29930035/Valve_Adaptive_Systems.pdf)
 
-## A Metamorfose da Valve
-https://github.com/FELIPEKINGMASTERKING/Evolution-and-Organizational-Complexity-Engenharia-de-Sistemas-Adaptativos-e-Cultura-de-Dados/releases/download/v1.0.0/A-Metamorfose-da-Valve.mp4
+## [A Metamorfose da Valve]
+(https://github.com/FELIPEKINGMASTERKING/Evolution-and-Organizational-Complexity-Engenharia-de-Sistemas-Adaptativos-e-Cultura-de-Dados/releases/download/v1.0.0/A-Metamorfose-da-Valve.mp4)
 
-
+## [imprio-multibilionrio-da-Valve]
+(https://github.com/FELIPEKINGMASTERKING/Evolution-and-Organizational-Complexity-Engenharia-de-Sistemas-Adaptativos-e-Cultura-de-Dados/releases/download/v1.0.0/O-imprio-multibilionrio-da-Valve.mp4)
 
 
 
