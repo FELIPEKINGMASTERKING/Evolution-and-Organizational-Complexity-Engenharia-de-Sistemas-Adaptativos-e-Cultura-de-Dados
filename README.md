@@ -10,7 +10,7 @@ Demonstrar o ciclo de vida de experimentos de ciência de dados através da tele
 A infraestrutura humana da Valve é definida pelo conceito de "Flatland", uma organização estritamente horizontal que elimina hierarquias de comando e controle. A autonomia é simbolizada pela mobilidade física das estações de trabalho, equipadas com rodas para permitir que os colaboradores se desloquem para onde possam gerar maior valor, facilitando a formação orgânica de "Cabals" (equipes multidisciplinares).
 O desempenho é avaliado via Stack Ranking, fundamentado em quatro critérios de produtividade, com ênfase técnica em Product Contribution (capacidade de moldar o produto via evidências) e Group Contribution (capacidade de amplificar o output e o conhecimento dos pares). Central a este modelo é o profissional "T-Shaped", cuja "Perna Vertical" representa a maestria técnica em dados e modelagem preditiva, enquanto a "Barra Horizontal" representa a colaboração interdisciplinar. A evolução máxima deste perfil é o Zelador (Steward), um agente autônomo que assume a responsabilidade pela integridade e evolução do ecossistema.
 
-## Comparativo de Modelos Organizacionais
+## [Comparativo de Modelos Organizacionais]
 
 | Conceito | Modelo Tradicional | Modelo Valve (SAC) |
 | :--- | :--- | :--- |
@@ -28,7 +28,7 @@ O desempenho é avaliado via Stack Ranking, fundamentado em quatro critérios de
 
 <img width="1536" height="2752" alt="Ciclos_de_Engajamento_em_Jogos (1)" src="https://github.com/user-attachments/assets/70384ca2-6bdb-4a7c-9109-95b4d6f13fcd" />
 
-## Anatomia_da_Inovação_nos_Games
+## Anatomia da Inovação nos Games
 
 <img width="1536" height="2752" alt="Anatomia_da_Inovação_nos_Games" src="https://github.com/user-attachments/assets/60fb2e91-5a58-4667-93eb-b92172df3a87" />
 
