@@ -40,18 +40,6 @@ O desempenho é avaliado via Stack Ranking, fundamentado em quatro critérios de
 
 
 
-## 🎥 Vídeos do Projeto
-
-<video width="100%" controls>
-  <source src="https://github.com/FELIPEKINGMASTERKING/Evolution-and-Organizational-Complexity-Engenharia-de-Sistemas-Adaptativos-e-Cultura-de-Dados/releases/download/v1.0.0/A-Metamorfose-da-Valve.mp4" type="video/mp4">
-</video>
-
-<video width="100%" controls>
-  <source src="https://github.com" type="video/mp4">
-</video>
-
-
-
 
 
 
