@@ -39,13 +39,16 @@ O desempenho é avaliado via Stack Ranking, fundamentado em quatro critérios de
 ## [imprio-multibilionrio-da-Valve](https://github.com/FELIPEKINGMASTERKING/Evolution-and-Organizational-Complexity-Engenharia-de-Sistemas-Adaptativos-e-Cultura-de-Dados/releases/download/v1.0.0/O-imprio-multibilionrio-da-Valve.mp4)
 
 
+
 ## 🎥 Vídeos do Projeto
 
-<video src="https://github.com/FELIPEKINGMASTERKING/Evolution-and-Organizational-Complexity-Engenharia-de-Sistemas-Adaptativos-e-Cultura-de-Dados/releases/download/v1.0.0/A-Metamorfose-da-Valve.mp4" controls width="100%"></video>
+<video width="100%" controls>
+  <source src="https://github.com/FELIPEKINGMASTERKING/Evolution-and-Organizational-Complexity-Engenharia-de-Sistemas-Adaptativos-e-Cultura-de-Dados/releases/download/v1.0.0/A-Metamorfose-da-Valve.mp4" type="video/mp4">
+</video>
 
-<video src="https://github.com" controls width="100%"></video>
-
-
+<video width="100%" controls>
+  <source src="https://github.com" type="video/mp4">
+</video>
 
 
 
